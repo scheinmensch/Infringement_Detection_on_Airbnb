@@ -8,3 +8,5 @@ statsmodels==0.13.5
 scikit-learn==1.2.2
 ipympl==0.9.3
 missingno==0.5.2
+beautifulsoup4==4.11.1
+selenium==4.8.3
