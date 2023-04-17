@@ -38,3 +38,25 @@ def multi_listings(listings):
         return '20-49 listings'
     if listings > 49:
         return '50 or more listings'
+    
+def license_infringement(row):
+    if row['status_license'] == 'ok':
+        return 0
+    if row['status_license'] == 'no license' and row['minimum_nights'] >31:
+        return 0
+    if row['status_license'] == 'claims exempt' and row['minimum_nights'] >31:
+        return 0
+    else:
+        return 1
+    
+def claim_private_infringement(row):
+    if row['host_type'] == 'private' and row['total_listings'] >3:
+        return 1
+    else:
+        return 0
+
+def suspicious_or_not(row):
+    if row['license_infringement'] == 0 and row['claim_private_infringement'] == 0:
+        return 0
+    else:
+        return 1
