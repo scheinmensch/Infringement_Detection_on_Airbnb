@@ -11,3 +11,4 @@ missingno==0.5.2
 beautifulsoup4==4.11.1
 selenium==4.8.3
 kmodes==0.12.2
+xgboost==1.7.5
