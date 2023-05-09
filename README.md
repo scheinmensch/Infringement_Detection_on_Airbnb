@@ -17,8 +17,8 @@ pip install -r requirements.txt
 ```
 Technologies and tools used in this project:
 - Python
-- Unsupervised Machine Learning (Clustering)
-- Supervised Machine Learning
+- Unsupervised Learning (Clustering)
+- Supervised Learning
 - Webscraping
 - Tableau
 - Jupyter
