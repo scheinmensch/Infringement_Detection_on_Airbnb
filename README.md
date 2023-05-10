@@ -1,6 +1,7 @@
 From October 2022 to May 2023, we participated in an intensive coding bootcamp at [neuefische](https://github.com/neuefische) with the focus *data*.
 
-This notebook documents our final project.
+This notebook documents our capstone project.
+
 
 Collaborators:
 
@@ -9,6 +10,7 @@ Uta Viegener: [sherricaralon](https://github.com/sherricaralon)
 Dr. Krisztina Nagy: [Krisztina-1984](https://github.com/krisztina-1984)
 
 Johanna Krüger: [scheinmensch](https://github.com/scheinmensch)
+
 
 
 # Infringement detection on Airbnb
