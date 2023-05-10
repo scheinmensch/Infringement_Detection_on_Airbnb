@@ -3,9 +3,13 @@ From October 2022 to May 2023, we participated in an intensive coding bootcamp a
 This notebook documents our final project.
 
 Collaborators:
+
 Uta Viegener: [sherricaralon](https://github.com/sherricaralon)
+
 Dr. Krisztina Nagy: [Krisztina-1984](https://github.com/krisztina-1984)
+
 Johanna Krüger: [scheinmensch](https://github.com/scheinmensch)
+
 
 # Infringement detection on Airbnb
 
