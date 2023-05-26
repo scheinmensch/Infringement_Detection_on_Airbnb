@@ -2,6 +2,7 @@ From October 2022 to May 2023, we participated in an intensive coding bootcamp a
 
 This notebook documents our capstone project.
 
+You can watch the final presentation on [YouTube](https://www.youtube.com/watch?v=TTipPWftDZM&list=PLSizAuhe-ZaMcuZPD5Rjk-pmTv_dJtBvf&index=1)
 
 Collaborators:
 
