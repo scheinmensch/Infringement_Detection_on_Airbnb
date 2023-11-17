@@ -20,7 +20,7 @@ We analyze the Airbnb listings of three European cities (Barcelona, Stockholm, R
 
 Data used in this project is taken from [Inside Airbnb](http://insideairbnb.com/get-the-data). Many thanks!
 
-Some additional data was collected by a webscraper: For Barcelona we scraped the information weather the host is commercial or private. We did that for roughly 11300 listings.
+Some additional data was collected by a webscraper: For Barcelona we scraped the information whether the host is commercial or private. We did that for roughly 11300 listings.
 
 ### About Airbnb
 
